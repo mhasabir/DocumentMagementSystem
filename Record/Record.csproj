@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4FF9BC7A-EFCF-4B83-B6CD-F06C63161E74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Record</RootNamespace>
+    <AssemblyName>Record</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminF.Designer.cs">
+      <DependentUpon>AdminF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseCl.cs" />
+    <Compile Include="DocumentCl.cs" />
+    <Compile Include="GroupCl.cs" />
+    <Compile Include="IDatabase.cs" />
+    <Compile Include="IDocument.cs" />
+    <Compile Include="IGroup.cs" />
+    <Compile Include="IProcess.cs" />
+    <Compile Include="IUser.cs" />
+    <Compile Include="LinqToSql.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LinqToSql.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="LinqToSql2.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LinqToSql2.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Photo Viewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Photo Viewer.Designer.cs">
+      <DependentUpon>Photo Viewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessCl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaffF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffF.Designer.cs">
+      <DependentUpon>StaffF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherF.Designer.cs">
+      <DependentUpon>TeacherF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentF.Designer.cs">
+      <DependentUpon>StudentF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserCl.cs" />
+    <EmbeddedResource Include="AdminF.resx">
+      <DependentUpon>AdminF.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LinqToSql.dbml.layout">
+      <DependentUpon>LinqToSql.dbml</DependentUpon>
+    </None>
+    <None Include="LinqToSql2.dbml.layout">
+      <DependentUpon>LinqToSql2.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photo Viewer.resx">
+      <DependentUpon>Photo Viewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StaffF.resx">
+      <DependentUpon>StaffF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherF.resx">
+      <DependentUpon>TeacherF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentF.resx">
+      <DependentUpon>StudentF.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LinqToSql.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LinqToSql.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LinqToSql2.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LinqToSql2.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folders-OS-User-No-Frame-Metro-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folders-OS-User-No-Frame-Metro-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-key-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1F0815.png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2560x1440-cool-black-solid-color-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

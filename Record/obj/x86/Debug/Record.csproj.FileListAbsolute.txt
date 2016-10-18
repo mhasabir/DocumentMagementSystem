@@ -1,0 +1,84 @@
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.Form1.resources
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.Student.resources
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\bin\Debug\Record.exe
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\bin\Debug\Record.pdb
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.exe
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.pdb
+c:\users\masud\documents\visual studio 2010\Projects\Record\Record\obj\x86\Debug\Record.Teacher.resources
+G:\Record\Record\obj\x86\Debug\Record.exe
+G:\Record\Record\obj\x86\Debug\Record.pdb
+J:\Record\Record\Record\obj\x86\Debug\Record.exe
+J:\Record\Record\Record\obj\x86\Debug\Record.pdb
+J:\Record\Record\Record\bin\Debug\Record.exe
+J:\Record\Record\Record\bin\Debug\Record.pdb
+J:\Record\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.exe
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.pdb
+J:\Project\Record\Record\Record\bin\Debug\Record.exe
+J:\Project\Record\Record\Record\bin\Debug\Record.pdb
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.csprojResolveAssemblyReference.cache
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+J:\Project\Record\Record\Record\bin\Debug\Record.exe.config
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.StudentF.resources
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.AdminF.resources
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.TeacherF.resources
+M:\Project\Record\Record\Record\bin\Debug\Record.exe.config
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.exe
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.pdb
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.csprojResolveAssemblyReference.cache
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.AdminF.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.StudentF.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.TeacherF.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+D:\Project\Record\Record\Record\bin\Debug\Record.exe.config
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.exe
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.pdb
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.csprojResolveAssemblyReference.cache
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.AdminF.resources
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.StudentF.resources
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.TeacherF.resources
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+D:\Project\Record\Record\Record\bin\Debug\Record.exe
+D:\Project\Record\Record\Record\bin\Debug\Record.pdb
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.Form1.resources
+D:\Project\Record\Record\Record\obj\x86\Debug\Record.StaffF.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.Form1.resources
+M:\Project\Record\Record\Record\obj\x86\Debug\Record.StaffF.resources
+M:\Project\Record\Record\Record\bin\Debug\Record.exe
+M:\Project\Record\Record\Record\bin\Debug\Record.pdb
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.Form1.resources
+J:\Project\Record\Record\Record\obj\x86\Debug\Record.StaffF.resources
+J:\Record\Record\Record\bin\Debug\Record.exe.config
+J:\Record\Record\Record\obj\x86\Debug\Record.csprojResolveAssemblyReference.cache
+J:\Record\Record\Record\obj\x86\Debug\Record.AdminF.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.Form1.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.StaffF.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.StudentF.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.TeacherF.resources
+J:\Record\Record\Record\obj\x86\Debug\Record.Photo_Viewer.resources
+I:\Record\Record\Record\bin\Debug\Record.exe.config
+I:\Record\Record\Record\obj\x86\Debug\Record.exe
+I:\Record\Record\Record\obj\x86\Debug\Record.pdb
+I:\Record\Record\Record\obj\x86\Debug\Record.csprojResolveAssemblyReference.cache
+I:\Record\Record\Record\obj\x86\Debug\Record.AdminF.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.Form1.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.Photo_Viewer.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.Properties.Resources.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.StaffF.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.TeacherF.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.StudentF.resources
+I:\Record\Record\Record\obj\x86\Debug\Record.csproj.GenerateResource.Cache
+I:\Record\Record\Record\bin\Debug\Record.exe
+I:\Record\Record\Record\bin\Debug\Record.pdb
+X:\Record\Record\Record\bin\Debug\Record.exe.config
+X:\Record\Record\Record\obj\x86\Debug\Record.exe
+X:\Record\Record\Record\obj\x86\Debug\Record.pdb
+C:\Users\Mehedi Hasan Abir\Downloads\Record\Record\Record\Record\bin\Debug\Record.exe.config
+C:\Users\Mehedi Hasan Abir\Downloads\Record\Record\Record\Record\obj\x86\Debug\Record.exe
+C:\Users\Mehedi Hasan Abir\Downloads\Record\Record\Record\Record\obj\x86\Debug\Record.pdb
